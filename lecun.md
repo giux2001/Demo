@@ -1,0 +1,4 @@
+# Vincitore Ta 2018: Yann Lecun
+
+
+**Particolarmente noto**  per i suoi rilevanti contributi nei campi dell'apprendimento automatico, della visione artificiale, della robotica e delle neuroscienze computazionali. In particolare, è noto per lo sviluppo di reti neurali convoluzionali (CNN), aver rivoluzionato il campo della visione artificiale usando il settore del Riconoscimento ottico dei caratteri.[1][2] È anche una delle principali menti che collaborarono alla creazione di DjVu, una tecnologia di compressione delle immagini. Insieme a Léon Bottou, ha sviluppato il linguaggio di programmazione Lush.
